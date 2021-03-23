@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img alt="NpsMail" src="public/sendmail.png" width="80%">
+  <img alt="NpsMail" src="public/sendmail.PNG" width="80%">
 </p>
 
 <br>
